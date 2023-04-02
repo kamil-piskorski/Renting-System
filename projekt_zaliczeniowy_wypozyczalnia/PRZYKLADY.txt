@@ -1,0 +1,31 @@
+ksiazki:
+14	Jan Kowalski	Tytul1	Autor1	polski
+77	Jan Kowalski	Tytul2	Autor2	polski
+88	Jan Kowalski	Tytul3	Autor3	polski
+56	Jan Kowalski	Tytul4	Autor4	polski
+175	Jan Kowalski	Tytul5	Autor5	polski
+21	Jan Kowalski	Tytul6	Autor6	polski
+
+CD:
+132	Karol Nowak	Tytul1	Autor1	polski
+188	Karol Nowak	Tytul2	Autor2	polski
+9	Karol Nowak	Tytul3	Autor3	polski
+2	Karol Nowak	Tytul4	Autor4	polski
+43	Karol Nowak	Tytul5	Autor5	polski
+65	Karol Nowak	Tytul6	Autor6	polski
+
+gry:
+133	Karol Nowak	Tytul1	Autor1	polski
+61	Karol Nowak	Tytul2	Autor2	polski
+1	Karol Nowak	Tytul3	Autor3	polski
+90	Karol Nowak	Tytul4	Autor4	polski
+99	Karol Nowak	Tytul5	Autor5	polski
+107	Karol Nowak	Tytul6	Autor6	polski
+
+klienci:
+133	Jan Kowalski
+77	Jan Kowalski
+1	Jan Kowalski
+56	Jan Kowalski
+175	Jan Kowalski
+21	Jan Kowalski

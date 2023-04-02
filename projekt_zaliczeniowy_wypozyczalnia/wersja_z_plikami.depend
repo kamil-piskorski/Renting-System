@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1662736380 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\staff.cpp
+	"staff.h"
+
+1663075286 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\cd.cpp
+	"kategoria.h"
+	"CD.h"
+
+1663073280 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\kategoria.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1663012544 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\cd.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663075287 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\gry.cpp
+	"kategoria.h"
+	"gry.h"
+
+1663073280 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\gry.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663075283 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\ksiazki.cpp
+	"kategoria.h"
+	"ksiazki.h"
+
+1663012544 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\ksiazki.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663100834 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"kategoria.h"
+	"CD.h"
+	"ksiazki.h"
+	"gry.h"
+	"staff.h"
+	"Klient.h"
+
+1662735789 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\staff.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<vector>
+
+1663010959 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\klient.cpp
+	"Klient.h"
+
+1663011882 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\wersja_z_plikami\klient.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+
+1663100967 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\cd.cpp
+	"kategoria.h"
+	"CD.h"
+
+1663073280 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\kategoria.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1663012544 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\cd.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663100967 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\gry.cpp
+	"kategoria.h"
+	"gry.h"
+
+1663073280 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\gry.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663010959 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\klient.cpp
+	"Klient.h"
+
+1663011882 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\klient.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+
+1663100834 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"kategoria.h"
+	"CD.h"
+	"ksiazki.h"
+	"gry.h"
+	"staff.h"
+	"Klient.h"
+
+1663012544 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\ksiazki.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1662735789 c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\staff.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<vector>
+
+1662736380 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\staff.cpp
+	"staff.h"
+
+1663100994 source:c:\users\kamil\desktop\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\ksiazki.cpp
+	"kategoria.h"
+	"ksiazki.h"
+
+1663100967 source:c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\cd.cpp
+	"kategoria.h"
+	"CD.h"
+
+1663073280 c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\kategoria.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+
+1663012544 c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\cd.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663100967 source:c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\gry.cpp
+	"kategoria.h"
+	"gry.h"
+
+1663073280 c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\gry.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663010959 source:c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\klient.cpp
+	"Klient.h"
+
+1663011882 c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\klient.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+
+1663100994 source:c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\ksiazki.cpp
+	"kategoria.h"
+	"ksiazki.h"
+
+1663012544 c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\ksiazki.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+	<windows.h>
+
+1663100834 source:c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	"kategoria.h"
+	"CD.h"
+	"ksiazki.h"
+	"gry.h"
+	"staff.h"
+	"Klient.h"
+
+1662735789 c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\staff.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<vector>
+
+1662736380 source:c:\users\kamil\desktop\studia informatyka rok 1\projekt_programowanie\wersja z plikami\projekt_zaliczeniowy_wypozyczalnia\staff.cpp
+	"staff.h"
+
